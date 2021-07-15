@@ -1,0 +1,19 @@
+.StatementContainer{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: var(--text-color-head);
+    font-size: 3vh;
+    line-height: 4vh;
+    width: 100%;
+    margin: 20px 0 10px 0;
+    padding: 8px;
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+.rotate180{
+    height: fit-content;
+    transform: rotate(180deg);
+}

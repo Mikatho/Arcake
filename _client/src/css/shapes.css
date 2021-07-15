@@ -1,0 +1,80 @@
+@import url("colorpanel.css");
+
+:root{
+    --top-shape-divier-pos: 22vh;
+    --mid-shape-divier-pos: 47vh;
+    --bottom-shape-divier-pos: 82vh;
+}
+
+.custom-shape-divider-top {
+    position: absolute;
+    top: 0;
+    width: 300vw;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 85vh;
+}
+
+.custom-shape-divider-top svg path{
+    fill: #00000009;
+}
+
+.custom-shape-divider-top svg path {
+    fill: #00000010;
+}
+
+.topshape {
+    width: 100vw;
+    left: -0vw;
+}
+
+.topshape svg {
+    height: var(--top-shape-divier-pos);
+    width: 200vw;
+    left: -50vw;
+    animation: moveShapeTop 20s ease-in-out infinite;
+    animation-delay: 2s;
+}
+
+.midshape svg {
+    height: var(--mid-shape-divier-pos);
+    width: 200vw;
+    left: 50vw;
+    animation: moveShapeMid 20s ease-in-out infinite;
+    animation-delay: 1s;
+}
+
+.bottomshape svg {
+    height: var(--bottom-shape-divier-pos);
+    width: 200vw;
+    left: 50vw;
+    animation: moveShapeBottom 20s ease-in-out infinite;
+}
+
+.topshape svg path {
+    fill: #00000013;
+}
+
+@keyframes moveShapeTop {
+    0% {height: var(--top-shape-divier-pos)}
+    50% {height: calc(var(--top-shape-divier-pos) + 6vh)}
+    100% {height: var(--top-shape-divier-pos)}
+}
+
+@keyframes moveShapeMid {
+    0% {height: var(--mid-shape-divier-pos)}
+    50% {height: calc(var(--mid-shape-divier-pos) + 6vh)}
+    100% {height: var(--mid-shape-divier-pos)}
+}
+
+@keyframes moveShapeBottom {
+    0% {height: var(--bottom-shape-divier-pos)}
+    50% {height: calc(var(--bottom-shape-divier-pos) + 6vh)}
+    100% {height: var(--bottom-shape-divier-pos)}
+}

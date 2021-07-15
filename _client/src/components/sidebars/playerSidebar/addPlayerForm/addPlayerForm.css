@@ -1,0 +1,29 @@
+.addPlayer{
+    display: block !important;
+    font-size: 2vh !important;
+    margin: 2vh 0 !important;
+    line-height: 2vh !important;
+    font-weight: bold !important;
+    width: fit-content !important;
+    background-color: rgba(0, 0, 0, 0) !important;
+    border: 1px solid var(--text-color-head) !important;
+    box-shadow: 0 0 4px var(--text-color-head) !important;
+    color: var(--text-color-head) !important;
+}
+
+.spacing{
+    margin: 0 10px;
+}
+
+.cancel {
+    display: block !important;
+    margin: 2vh 0 !important;
+    font-size: 2vh !important;
+    line-height: 2vh !important;
+    font-weight: bold !important;
+    width: fit-content !important;
+    background-color: rgba(0, 0, 0, 0) !important;
+    border: 1px solid var(--text-color-head) !important;
+    box-shadow: 0 0 4px var(--text-color-head) !important;
+    color: var(--text-color-head) !important;
+}

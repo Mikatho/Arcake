@@ -1,0 +1,4941 @@
+[
+   {
+      "id":0,
+      "statement":"#playerAll# muss sein Getränk exen!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":1,
+      "statement":"#playerAll# muss sein Getränk exen!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":2,
+      "statement":"Jeder trinkt einen Schluck!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":3,
+      "statement":"Jeder trinkt einen Schluck!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":4,
+      "statement":"Jeder trinkt einen Schluck!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":5,
+      "statement":"Jeder trinkt zwei Schlücke!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":6,
+      "statement":"#playerSingle# trinkt einen Shot aus dem Bauchnabel von #playerSingle#!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":3,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":7,
+      "statement":"Der Spieler, der als Erstes aufsteht darf 3 Schlücke verteilen!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":1,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":8,
+      "statement":"Der Spieler, der als Erstes aufsteht darf 3 Schlücke verteilen!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":1,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":9,
+      "statement":"#playerSingleAll# zieh dich innerhalb von einer Minute aus und wieder an! Ansonsten",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":3,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":10,
+      "statement":"Trinke für jedes Kleidungsstück, das du anbehalten hast einen Schluck und verteile für jedes das du ausgezogen hast einen!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":3,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":11,
+      "statement":"#playerSober# darf für jeden alkoholfreien Mitspieler einen Schluck verteilen.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":12,
+      "statement":"#playerSober# darf für einen Mitspieler entscheiden was er in sein Getränk füllt.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":13,
+      "statement":"#playerSingleDrunk# nimm einen Schluck in den Mund und gurgel!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":1,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":14,
+      "statement":"#playerSingle# zeigt seinen Arsch oder trinkt einen Shot!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":3,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":15,
+      "statement":"#player#, wenn du ein Mann bist trinke 5 Schlücke, wenn nicht trinken alle anderen 5!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":16,
+      "statement":"Wenn du zufällig #playerDrunk# heißt hast du Pech gehabt und trinkst 5 Schlücke.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":17,
+      "statement":"Wenn du zufällig #playerDrunk# heißt hast du Pech gehabt und trinkst 5 Schlücke.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":18,
+      "statement":"Wenn du nicht #player# heißt hast du Pech gehabt und trinkst 2 Schlücke.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":19,
+      "statement":"Wenn du nicht #player# heißt hast du Pech gehabt und trinkst 2 Schlücke.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":20,
+      "statement":"#player# trinkt einen Schluck! Einfach so!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":21,
+      "statement":"Mach einen Kuss-Sound oder trink einen Schluck!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":1,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":22,
+      "statement":"#playerDrunk# nimmt einen Schluck in den Mund und behält ihn für eine Minute.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":3,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":23,
+      "statement":"Jede Modeikone-Influencerbitch mit Adiletten darf 2 Schlücke verteilen",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":24,
+      "statement":"Für #player# ist heute Gegenteiltag. Er/Sie darf bis 24 Uhr nicht mehr die Wahrheit sagen. (Gamemaster wählt Strafschluckanzahl)",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":3,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":25,
+      "statement":"Gamemaster: Hast du heute schon eine Aufgabe übersprungen? Dann Ex du Penner!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":26,
+      "statement":"#player# du darfst einen Schluck an jeden Spieler verteilen von dem du ein Geheimnis weißt.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":27,
+      "statement":"#playerDrunk# fülle dein Getränk auf.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":28,
+      "statement":"#player# such dir einen Trinkpartner bis zu dem Zeitpunkt an dem beide Getränke gleichzeitig leer sind. Vergesst nicht aufzufüllen wenn einer leer geht!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":29,
+      "statement":"#player# such dir einen Trinkpartner. Trinkt einer von euch, trinkt der andere die gleiche Menge mit!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":30,
+      "statement":"#player# such dir einen Trinkpartner. Trinkt einer von euch, trinkt der andere die gleiche Menge mit!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":31,
+      "statement":"Jede Basic Bitch mit Jeans und weißem Oberteil trinkt 2 Schlücke.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":32,
+      "statement":"#playerSober# hat langweile und ist nüchtern. Alle trinken 2 Strafschlücke!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":33,
+      "statement":"#playerSober# hat langweile und ist nüchtern. Alle trinken 2 Strafschlücke!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":34,
+      "statement":"#player# gebe anal in die Whatsapp-Suche ein und lies die letzte Nachricht vor. Wenn du nicht willst trinke 3 Schlücke!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":35,
+      "statement":"#player# gebe Sex in die Whatsapp-Suche ein und lies die letzte Nachricht vor. Wenn du nicht willst trinke 3 Schlücke!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":36,
+      "statement":"#player# gebe blowjob in die Whatsapp-Suche ein und lies die letzte Nachricht vor. Wenn du nicht willst trinke 3 Schlücke!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":37,
+      "statement":"#player# gebe Dildo in die Whatsapp-Suche ein und lies die letzte Nachricht vor. Wenn du nicht willst trinke 3 Schlücke!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":38,
+      "statement":"Der/Die erste der eine Unterhose auf den Tisch legt darf einen Shot verteilen!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":3,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":39,
+      "statement":"Der/Die erste der ein Kondom auf den Tisch legt darf einen Shot verteilen!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":3,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":40,
+      "statement":"Der/Die erste der einen BH auf den Tisch legt darf einen Shot verteilen!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":3,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":41,
+      "statement":"Der/Die erste der einen Penis auf den Tisch legt darf einen Shot verteilen!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":3,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":42,
+      "statement":"#playerMale# hat nen kleinen Penis. Alle trinken einen aus Mitleid!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":1,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":43,
+      "statement":"Prohibition! #player# du darfst nicht mehr trinken. #playerDrunk# übernimmt dafür. Solange bis du nicht mehr willst.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":44,
+      "statement":"Alle spenden 5€ an project.arcake@gmail.de auf Paypal. Oder trinken 3 Schlücke!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":45,
+      "statement":"Alle die @project.arcake auf Instagram folgen verteilen 2. Der Rest trinkt 2 Schlücke!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":46,
+      "statement":"Ching Chang Shot! #playerDrunk# VS #playerDrunk#!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":47,
+      "statement":"Jeder der dieses Jahr in Vong-Sprache gesprochen oder geschrieben hat trinkt 2 Strafschlücke!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":48,
+      "statement":"Der Gamemaster darf 3 Schlücke verteilen!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":49,
+      "statement":"Der Gamemaster darf 3 Schlücke verteilen!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":50,
+      "statement":"#player# sucht sich einen Partner. Zusammen müsst ihr 5 Shots trinken. Teilt es euch selbst auf!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":51,
+      "statement":"#player# liest den Schrittzähler auf seinem Handy aus teilt durch 1000 und verteilt soviel!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":52,
+      "statement":"#player# nennt einen Künstler. Jeder sagt einen Song von ihm oder trinkt einen Schluck",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":2,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":53,
+      "statement":"Seid ihr noch nüchtern? Schande! Trinkt 4 Schlücke!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":54,
+      "statement":"#player# verteilt so viele Schlücke, wie sein (ganzer) Vorname Konsonanten hat!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":55,
+      "statement":"#player# verteilt so viele Schlücke, wie sein (ganzer) Vorname Konsonanten hat!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":56,
+      "statement":"Jeder verteilt so viele Schlücke, wie sein (ganzer) Vorname Vokale hat! #player# beginnt!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":57,
+      "statement":"Jeder trinkt so viel wie er/sie Vornamen hat!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":58,
+      "statement":"#playerDrunk# VS #player#: Beginnt jeweils eine Songzeile die der Gegner zuende bringen muss! Bei Versagen 2 Schlücke trinken!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":2,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":59,
+      "statement":"#playerDrunk#: sag die Schuhgröße von #player#! Für jede Nummer daneben musst du 1 Schlück trinken!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":2,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":60,
+      "statement":"Jeder Money Boy der mehr als 100€ bar rumliegen hat darf 2 Schlücke verteilen!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":1,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":61,
+      "statement":"#player# muss seinen Nippel zeigen oder 5 Schlücke trinken!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":1,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":62,
+      "statement":"#player#: schreibe #player# heimlich ein Tier welches er/sie nachmachen soll. Wer es errät darf jemanden exen lassen!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":3,
+      "cat_game":3,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":63,
+      "statement":"#player#: verteile so viele Schlücke wie du Herr der Ringe Charaktere kennst. Sind es unter 3 trinke selber 3.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":3,
+      "cat_game":3,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":64,
+      "statement":"#player#: verteile so viele Schlücke wie du Money Boy Songs kennst. Sind es unter 3 trinke selber 3.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":2,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":65,
+      "statement":"#player#: verteile so viele Schlücke wie du Sexstellungen kennst. Sind es unter 3 trinke selber 3.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":2,
+      "cat_sex":1,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":66,
+      "statement":"#player# verteile so viele Schlücke wie du Weltmeere kennst. Sind es unter 3 trinke selber 3.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":2,
+      "cat_sex":1,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":67,
+      "statement":"#playerDrunk# stinkt und deswegen müssen alle anderen trinken",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":68,
+      "statement":"#player# verteile 3!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":69,
+      "statement":"#player# verteile 5!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":70,
+      "statement":"#player# verteile 7!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":71,
+      "statement":"#playerDrunk# trink 2!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":72,
+      "statement":"#playerDrunk# trink 4!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":73,
+      "statement":"#player# stell eine Regel auf!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":0,
+      "cat_activity":0,
+      "cat_game":3,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":74,
+      "statement":"#player# stell eine Regel auf!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":0,
+      "cat_activity":0,
+      "cat_game":3,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":75,
+      "statement":"#player# stell eine Regel auf!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":0,
+      "cat_activity":0,
+      "cat_game":3,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":76,
+      "statement":"#player# stell eine Regel auf!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":0,
+      "cat_activity":0,
+      "cat_game":3,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":77,
+      "statement":"#playerDrunk# trink 2!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":78,
+      "statement":"#player# verteile 3!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":79,
+      "statement":"#player# verteile 5!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":80,
+      "statement":"#player# verteile 7!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":81,
+      "statement":"#playerDrunk# trink 2!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":82,
+      "statement":"#playerDrunk# trink 4!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":83,
+      "statement":"#playerDrunk# trink 2!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":84,
+      "statement":"#player# verteile 3!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":85,
+      "statement":"#player# verteile 5!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":86,
+      "statement":"#player# verteile 7!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":87,
+      "statement":"#playerDrunk# trink 2!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":88,
+      "statement":"#playerDrunk# trink 4!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":89,
+      "statement":"#playerDrunk# Trink 2!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":90,
+      "statement":"#player# verteile 3!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":91,
+      "statement":"#player# verteile 5!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":92,
+      "statement":"#player# verteile 7!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":93,
+      "statement":"#playerDrunk# trink 2!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":94,
+      "statement":"#playerDrunk# trink 4!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":95,
+      "statement":"#playerDrunk# trink 2!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":96,
+      "statement":"#playerDrunk# Für jeden Schluck, den du ab jetzt verteilst trinkst du einen! (bis dein Glas leer ist)",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":97,
+      "statement":"#player# fragt #playerDrunk# eine Frage. Wenn sie richtig beantwortet wurde darf er/sie 5 verteilen sonst muss er/sie 3 trinken!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":3,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":98,
+      "statement":"#player# fragt #playerDrunk# eine Frage. Wenn sie richtig beantwortet wurde darf er/sie 5 verteilen sonst muss er/sie 3 trinken!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":3,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":99,
+      "statement":"#player# fragt #playerDrunk# eine Frage. Wenn sie richtig beantwortet wurde darf er/sie 5 verteilen sonst muss er/sie 3 trinken!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":3,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":100,
+      "statement":"#playerDrunk# darf sein Glas austrinken um eine neue Regel aufzustellen!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":2,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":101,
+      "statement":"#playerDrunk# darf sein Glas austrinken um eine neue Regel aufzustellen!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":2,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":102,
+      "statement":"#playerDrunk# du hast eine Fallenkarte! wenn dir jemand Schlücke gibt trinkt er selbst das doppelte.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":2,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":103,
+      "statement":"#playerDrunk#, #playerDrunk# und #playerDrunk#, wer zuerst seinen Hintern zeigt, verteilt 5 Schlücke.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":3,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":104,
+      "statement":"#playerDrunk#, trink soviele Schlücke wie Singles dabei sind.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":105,
+      "statement":"#playerDrunk#, trink soviele Schlücke wie Singles dabei sind.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":106,
+      "statement":"Alle die schon einmal aufm Ballermann saufen waren trinken 3 Schlücke aus Nostalgie.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":107,
+      "statement":"Alle Teamsport-Fans trinken so oft wie ihr Lieblingsteam die Meisterschaft gewonnen hat.",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":108,
+      "statement":"#player# VS #player#: Sagt abwechselnd Hallo in verschiedenen Sprachen. Wer einen Fehler macht trinkt 2 Schlücke!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":3,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":109,
+      "statement":"#playerDrunk# sucht sich einen Trinkbuddy aus. Trinkt einer von euch, trinkt der andere die gleiche Menge!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":110,
+      "statement":"Besitzt du ein Auto?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":111,
+      "statement":"#player# sagt seine Lieblings-Pornoseite die Runde stimmt ab ob diese wirklich die beste ist!",
+      "type":"1",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":112,
+      "statement":"Besitzt du ein Android Handy? ",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":113,
+      "statement":"Besitzt du ein iPhone?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":114,
+      "statement":"Bist du Student?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":115,
+      "statement":"Hast du ein Tattoo?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":116,
+      "statement":"Hast du ein Piercing?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":117,
+      "statement":"Trägst du eine Kette?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":118,
+      "statement":"Hast du schonmal Gras geraucht?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":119,
+      "statement":"Bist du jünger als 21?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":120,
+      "statement":"Hast du heute abend noch Lust auf eine Orgie?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":121,
+      "statement":"Bist du geschminkt?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":122,
+      "statement":"Hast du einen Bart?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":123,
+      "statement":"Hattest du heute schon Sex?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":124,
+      "statement":"Hattest du in den letzten 3 Tagen Sex?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":125,
+      "statement":"Hattest du diese Woche schon Sex?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":126,
+      "statement":"Hattest du diesen Monat schon Sex?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":127,
+      "statement":"Hast du dich heute schon selbstbefriedigt?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":128,
+      "statement":"Wer würde am ehesten bei einem Porno mitspielen?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":129,
+      "statement":"Wer wird am ehesten Langzeitstudent?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":130,
+      "statement":"Wer würde am ehesten ein Auto klauen?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":131,
+      "statement":"Nennt die Person mit den größten Brüsten!",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":132,
+      "statement":"Nennt die Person mit dem größten Penis!",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":133,
+      "statement":"Wer würde am ehesten Politiker werden?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":134,
+      "statement":"Wer hat den kleinsten Pimmel?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":135,
+      "statement":"Wem würdet ihr am ehesten einen blasen?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":136,
+      "statement":"Wer ist in dieser Gruppe die älteste Person?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":137,
+      "statement":"Wer in dieser Runde hatte die meisten Penisse im Mund?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":138,
+      "statement":"Wem aus dieser Gruppe würdet ihr am liebsten genüsslich mit der Zunge übers Arschloch fahren?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":139,
+      "statement":"Wer hat am meisten Sex?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":140,
+      "statement":"Wer hat am meisten wechselnde Sexualpartner?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":141,
+      "statement":"Alle dessen Getränk noch mehr als halbvoll ist, trinken 3!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":142,
+      "statement":"Alle dessen Getränk noch mehr als halbvoll ist, trinken 3!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":143,
+      "statement":"Alle die kein Trinkbuddy haben, trinken 2!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":144,
+      "statement":"Alle die kein Trinkbuddy haben, trinken 2!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":145,
+      "statement":"Alle die kein Trinkbuddy haben, trinken 2!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":146,
+      "statement":"Alle die kein Trinkbuddy haben, trinken 2!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":147,
+      "statement":"Wer am jüngsten ist trinkt 2!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":148,
+      "statement":"Wer am größten ist trinkt 2!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":149,
+      "statement":"Wer am kleinsten ist, trinkt 2!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":150,
+      "statement":"Wer am ältesten ist, verteilt 2!",
+      "type":"0",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":151,
+      "statement":"Ist Ananas auf Pizza okay?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":152,
+      "statement":"Sex ohne Kondom?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":153,
+      "statement":"Size matters?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":154,
+      "statement":"Sex während \"der Tage\" ist okay?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":155,
+      "statement":"Bist du Zuhause viel und lange nackt?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":156,
+      "statement":"Muss guter Sex harter Sex sein?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":157,
+      "statement":"Ist ästhetischer und intensiver Sex besser als harter Sex?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":1,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":158,
+      "statement":"Magst du beim Sex Sexspielzeug benutzen?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":159,
+      "statement":"Muss der Intimbereich glatt rasiert sein?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":1,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":160,
+      "statement":"Trinkst du gerne Kaffee?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":161,
+      "statement":"Bist du noch nüchtern?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":162,
+      "statement":"Magst du es beim Sex gefesselt zu werden?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":163,
+      "statement":"Hast du einen Satisfyer Pro?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":164,
+      "statement":"Hast du schon bei Eis.de bestellt?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":1,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":165,
+      "statement":"Wer sollte ein Kleidungsstück ausziehen?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":166,
+      "statement":"Wie oft kommt Mann durchschnittlich im Leben?",
+      "type":"3",
+      "solution":"7200",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":3,
+      "cat_sex":1,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":167,
+      "statement":"In welchen Jahr ist Micki Krause geboren?",
+      "type":"3",
+      "solution":"1970",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":3,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":168,
+      "statement":"In welchem Jahr ist PornHub online gegangen?",
+      "type":"3",
+      "solution":"2007",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":3,
+      "cat_sex":1,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":169,
+      "statement":"Wie viele Erektionen hat ein Mann täglich (Nachts zählt auch)?",
+      "type":"3",
+      "solution":"20",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":3,
+      "cat_sex":1,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":170,
+      "statement":"Wie alt wurde Hugh Heffner?",
+      "type":"3",
+      "solution":"91",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":2,
+      "cat_sex":1,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":171,
+      "statement":"Welche Geschwindigkeit hat Sperma beim ejakulieren (in km/h)?",
+      "type":"3",
+      "solution":"45",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":2,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":172,
+      "statement":"Wie viele Ringe der Macht gibt es in Der Herr der Ringe?",
+      "type":"3",
+      "solution":"20",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":2,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":173,
+      "statement":"Wie alt war Emma Watson in Harry Potter und der Gefangene von Askaban?",
+      "type":"3",
+      "solution":"14",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":2,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":174,
+      "statement":"In welchem Jahr hat der Zweite Weltkrieg begonnen?",
+      "type":"3",
+      "solution":"1939",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":175,
+      "statement":"Haare am Arsch ok?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":176,
+      "statement":"Hast du gerade richtig Lust auf Sex?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":177,
+      "statement":"Hast du schonmal einen Buttplug benutzt?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":178,
+      "statement":"Hast du dir schonmal einen Finger in den Po gesteckt?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":179,
+      "statement":"Hast du schonmal aus Interesse dein eigenes Sperma probiert?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":180,
+      "statement":"Würdest du für einen Tag dein Geschlecht tauschen?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":181,
+      "statement":"Hast du noch einen Facebook account?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":182,
+      "statement":"Masturbierst du regelmäßig?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":183,
+      "statement":"Hast du einen PornHub Account?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":184,
+      "statement":"Würdest du mit jemandem aus dieser Gruppe schlafen?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":185,
+      "statement":"Findest du jemanden aus dieser Gruppe attraktiv?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":186,
+      "statement":"Bist du im Besitz aller Herr der Ringe, Star Wars und Harry Potter Filme?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":187,
+      "statement":"Warst du schon einmal ausserhalb Europa?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":188,
+      "statement":"Bist du schon einmal in einer Klausur durchgefallen?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":189,
+      "statement":"Saßt du wegen eines Trinkspieles schonmal nackt am Tisch?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":190,
+      "statement":"Hast du schonmal in einem Auslandsurlaub von Alkohol gekotzt?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":191,
+      "statement":"Bist du schonmal fast gestorben, hast aber überlebt weil du voll warst?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":192,
+      "statement":"Hast du schonmal jemanden angekotzt?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":193,
+      "statement":"Warst du schonmal auf einem Festival?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":194,
+      "statement":"Hast du #player# schonmal kotzen gesehen?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":195,
+      "statement":"Mit wem würdest du am ehesten schlafen?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":196,
+      "statement":"Wer ist am exotischsten?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":197,
+      "statement":"Wer ist der größte Sportfan?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":198,
+      "statement":"Wer würde am ehesten alleine im Dschungel überleben?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":199,
+      "statement":"Wer ist der größte Nerd?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":200,
+      "statement":"Wer hat am meisten Geld für Sachen ausgegeben die er nicht braucht?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":201,
+      "statement":"Wer hat die meisten Sextoys?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":1,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":202,
+      "statement":"Wen kennst du am besten?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":203,
+      "statement":"Wer hatte am frühesten sex?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":204,
+      "statement":"Wer muss seine Hose ausziehen?",
+      "type":"2",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":1,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":205,
+      "statement":"In welchem Jahr wurde der erste Porno gedreht?",
+      "type":"3",
+      "solution":"1908",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":1,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":206,
+      "statement":"Was ist die durchschnittliche Penisgröße in Deutschland (gerundet in cm)?",
+      "type":"3",
+      "solution":"15",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":207,
+      "statement":"Was ist die durchschnittliche Penisgröße in Ecuador (gerundet in cm)?",
+      "type":"3",
+      "solution":"18",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":208,
+      "statement":"Was ist die durchschnittliche Penisgröße in Kambodscha (gerundet in cm)?",
+      "type":"3",
+      "solution":"10",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":209,
+      "statement":"Was ist die durchschnittliche Penisgröße in Thailand (gerundet in cm)?",
+      "type":"3",
+      "solution":"11",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":210,
+      "statement":"Wie groß ist das größte Land der Welt in km²?",
+      "type":"3",
+      "solution":"17098300",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":211,
+      "statement":"Wie hoch ist der durchschnitts IQ in Deutschland?",
+      "type":"3",
+      "solution":"100",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":212,
+      "statement":"Wie groß ist der durchschnittliche Unterbrustumfang in Deutschland in cm?",
+      "type":"3",
+      "solution":"80",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":213,
+      "statement":"Wann vollendete Leonardo da Vinci 'das Abendmahl'?",
+      "type":"3",
+      "solution":"1498",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":214,
+      "statement":"Wieviele Mitarbeiter hat Carlsberg (stand 2015)?",
+      "type":"3",
+      "solution":"47464",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":215,
+      "statement":"Wieviele clicks hat 'Never gonna give you up von Rick Astley' auf YouTube (stand 22.04.2020)",
+      "type":"3",
+      "solution":"680000000",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":216,
+      "statement":"Wie Lang ist die Storebælt Brücke in Meter",
+      "type":"3",
+      "solution":"6790",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":217,
+      "statement":"Welcher prozentuelle Anteil des weltweiten Datenübertragungsvolumens geht auf Pornos zurück?",
+      "type":"3",
+      "solution":"30",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":1,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":218,
+      "statement":"#player#, wenn du schon einmal sex im Wald hattest, verteil 3 Schlücke. Ansonsten trink sie selbst ",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":219,
+      "statement":"#player#, wenn du schon einmal sex am Strand hattest, verteil 3 Schlücke. Ansonsten trink sie selbst ",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":220,
+      "statement":"#player#, wenn du schon einmal sex auf der Arbeit hattest, verteil 3 Schlücke. Ansonsten trink sie selbst ",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":221,
+      "statement":"#player#, wenn du schon einmal sex im Bett deiner Eltern hattest, verteil 3 Schlücke. Ansonsten trink sie selbst ",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":222,
+      "statement":"#player#, wenn du schonmal etwas im Arsch hattest, verteil 3 Schlücke. Sonst trink sie selber",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":223,
+      "statement":"Wenn du in den letzten drei Tagen etwas bestellt hat, trinke 2 Schlücke",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":224,
+      "statement":"#player# trink 2  Schlücke, wenn du studierst und nicht ganz sicher bist was du damit anfangen sollst. Ansonsten verteil sie",
+      "type":"0",
+      "solution":"",
+      "cat_drink":1,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":0,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":225,
+      "statement":"#player# zeig ein Foto von dir oben ohne oder trink 2 Schlücke",
+      "type":"0",
+      "solution":"",
+      "cat_drink":2,
+      "cat_activity":0,
+      "cat_game":0,
+      "cat_sex":2,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":226,
+      "statement":"#player# zieh dein Oberteil aus oder trink 5 Schlücke",
+      "type":"0",
+      "solution":"",
+      "cat_drink":3,
+      "cat_activity":1,
+      "cat_game":0,
+      "cat_sex":3,
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":227,
+      "statement":"Wie lang ist der durchschnittliche Orgasmus einer Frau in Sekunden?",
+      "type":"3",
+      "solution":"15",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":228,
+      "statement":"Wie lang ist der durchschnittliche Orgasmus eines Mannes in Sekunden?",
+      "type":"3",
+      "solution":"5",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":229,
+      "statement":"Wie lang ist der durchschnittliche Orgasmus eines Schweines in Minuten?",
+      "type":"3",
+      "solution":"30",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":230,
+      "statement":"Wie viel Kalorien enthält durchschnittlich ein Samenerguss?",
+      "type":"3",
+      "solution":"5",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":231,
+      "statement":"Wie alt war der Jüngste US Präsident Theodore Roosevelt zu seiner Amtseinführung?",
+      "type":"3",
+      "solution":"42",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":232,
+      "statement":"Wie viel % der Deutschen verhüten mit der Pille?",
+      "type":"3",
+      "solution":"28",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":233,
+      "statement":"Wie viele Smartphone-Nutzer gab es 2019 in Polen? (in Mil)?",
+      "type":"3",
+      "solution":"21",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":234,
+      "statement":"Wieviele Einwohner hat das Crawford County (USA, Indiana - Letzte Zählung 2000)",
+      "type":"3",
+      "solution":"10743",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":235,
+      "statement":"Wie viele Pfeffer-Arten kommen natürlich in China vor?",
+      "type":"3",
+      "solution":"60",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":236,
+      "statement":"Wie viele Liter Bier wurden 2017 in Großbritannien pro Kopf getrunken?",
+      "type":"3",
+      "solution":"69.5",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":237,
+      "statement":"Wie viele Kämpfe gewann der kolumbianische Profiboxer Tomás Molinares in Folge?",
+      "type":"3",
+      "solution":"23",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":238,
+      "statement":"Wie ist die molare Masse von 2-Methoxy-1-Propanol in g/mol?",
+      "type":"3",
+      "solution":"90.12",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":239,
+      "statement":"Wie lang ist der Begattungsapparat der 15 cm langen Bananenschnecke in cm?",
+      "type":"3",
+      "solution":"80",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":240,
+      "statement":"Im Laufe eines 60 Jährigen Lebens hat ein Mann durchschnittliche wie lange eine Erektion während er schläft in Jahren?",
+      "type":"3",
+      "solution":"5",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":241,
+      "statement":"Wie viel wog der schwerste Mensch der Welt in kg?",
+      "type":"3",
+      "solution":"544",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":242,
+      "statement":"Wie viele Bundesländer hat Deutschland? (Stand 2020)",
+      "type":"3",
+      "solution":"16",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":243,
+      "statement":"Aus wievielen Knochen besteht der Mensch?",
+      "type":"3",
+      "solution":"210",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":244,
+      "statement":"Wieviele Nervenenden hat der Penis?",
+      "type":"3",
+      "solution":"4000",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":245,
+      "statement":"Wie viele Schritte legt eine Wiesn-Bedienung im Durchschnitt an jedem Tag des Festes zurück?",
+      "type":"3",
+      "solution":"15000",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":246,
+      "statement":"Wie viele Smarties passen in einen Smart? (Zweisitzer)",
+      "type":"3",
+      "solution":"7000000",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":247,
+      "statement":"Wieviele Nervenenden hat die Klitoris?",
+      "type":"3",
+      "solution":"8000",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":248,
+      "statement":"Wie viele Liter reinen Alkohol konsumiert statistisch gesehen jeder Russe im Jahr?",
+      "type":"3",
+      "solution":"16",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":249,
+      "statement":"Bei wie viel Stunden liegt der Weltrekord im Dauerjodeln?",
+      "type":"3",
+      "solution":"15",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":250,
+      "statement":"Wenn die Freiheitsstatue Schuhe tragen würde, in welche Größe wären diese?",
+      "type":"3",
+      "solution":"1143",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":251,
+      "statement":"Wie viele Arme braucht man um sich mit Gerhard einen reinzuorgeln?",
+      "type":"3",
+      "solution":"8",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":252,
+      "statement":"Etwa alle 7 Jahre wird der Eiffelturm frisch gestrichen. Dafür sind etwa 60 t Lack erforderlich. Wie viele Tonnen davon werden bis zum nächsten Anstrich durch Erosion abgetragen?",
+      "type":"3",
+      "solution":"45",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":253,
+      "statement":"Wie viel Geld warfen Rom-Besucher im Jahr 2016 in den berühmten Trevi-Brunnen?",
+      "type":"3",
+      "solution":"1400000",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":254,
+      "statement":"Wie viele Jahre währte die längste bekannte Ehe der Welt?",
+      "type":"3",
+      "solution":"90",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":255,
+      "statement":"Bei wie vielen Stunden liegt der Weltrekord im Wachbleiben?",
+      "type":"3",
+      "solution":"266",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":256,
+      "statement":"Wie viele Hotdogs hat der derzeitige Weltrekordhalter in zehn Minuten verschlungen?",
+      "type":"3",
+      "solution":"72",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":257,
+      "statement":"Ist Doggy besser als Reiterstellung?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":258,
+      "statement":"Ist Döner besser als Pizza?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":259,
+      "statement":"Ist Burger besser als Pizza?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":260,
+      "statement":"Ist Döner besser als Burger?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":261,
+      "statement":"Ist Wein besser als Bier?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":262,
+      "statement":"Ist Hochprozentiges besser als Bier?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":263,
+      "statement":"Lieber Kaffee als Tee?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":264,
+      "statement":"Lieber Netflix and Chill als feiern gehen?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":265,
+      "statement":"Lieber Mojito als Pina Colada?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":266,
+      "statement":"Sind Brüste wichtiger als Po?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":267,
+      "statement":"Sex am morgen ist besser als Sex am abend?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":268,
+      "statement":"Wie lang ging der längste Kuss der Welt in Stunden?",
+      "type":"3",
+      "solution":"58",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":269,
+      "statement":"Wie viele (gemeldete) Verletzungen aufgrund von sexuellem Experimentieren gibt es in den USA jährlich?",
+      "type":"3",
+      "solution":"11000",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":270,
+      "statement":"Wie lang war die kürzeste Zeit, die eine Frau zum Orgasmus brauchte (in Sekunden)?",
+      "type":"3",
+      "solution":"3",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":271,
+      "statement":"Wie lang war der längste Orgasmus einer Frau (in Sekunden)?",
+      "type":"3",
+      "solution":"43",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":272,
+      "statement":"Wie lang ist der größte erregierte Penis der Welt (in cm)?",
+      "type":"3",
+      "solution":"48",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":273,
+      "statement":"Wieviel stemmte der stärkste Penis der Welt (in kg)?",
+      "type":"3",
+      "solution":"120",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":274,
+      "statement":"Mit wie vielen Männern war die Tochter Lulia des römischen Imperators Augustus im Bett?",
+      "type":"3",
+      "solution":"80000",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":275,
+      "statement":"Wie viel Euro gibt der durchschnittliche Deutsche Mann monatlich für Schönheitsartikel aus?",
+      "type":"3",
+      "solution":"40",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":276,
+      "statement":"Wie viele cm ist der Rekord für die weiteste Strecke einer Ejakulation?",
+      "type":"3",
+      "solution":"600",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":277,
+      "statement":"Wie viele cm ist der Rekord der weitesten Strecke einer Frauenejakulation?",
+      "type":"3",
+      "solution":"300",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":278,
+      "statement":"Wieviel wogen die größten natürlichen Brüste der Welt (in kg)?",
+      "type":"3",
+      "solution":"30",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":279,
+      "statement":"Wie lang ist das längste Brot der Welt (in Metern)?",
+      "type":"3",
+      "solution":"1211",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":280,
+      "statement":"Was ist der Brustumfang der größten natürlichen Brüste der Welt (in cm)?",
+      "type":"3",
+      "solution":"203",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":281,
+      "statement":"Wie viele Penisse nahmen die Ägypter der besiegten 13. libyschen Armee mit?",
+      "type":"3",
+      "solution":"230",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":282,
+      "statement":"Wie groß ist der größte Mann der Welt (in cm)?",
+      "type":"3",
+      "solution":"247",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":283,
+      "statement":"Wie viele Studenten passten beim Weltrekord in einen Mini?",
+      "type":"3",
+      "solution":"21",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":284,
+      "statement":"Wie viel wog die schwerste Zitrone der Welt (in kg)?",
+      "type":"3",
+      "solution":"5.265",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":285,
+      "statement":"Wie hoch ist der größte jemals gebaute Stuhl (in Metern)?",
+      "type":"3",
+      "solution":"26",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":286,
+      "statement":"Wie viele Hula-Hoop Reifen wurden beim Weltrekord gleichzeitig um die Hüfte geschwungen?",
+      "type":"3",
+      "solution":"105",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":287,
+      "statement":"Wie viele verschiedene Sexpartner hat ein Deutscher im Durchschnitt?",
+      "type":"3",
+      "solution":"6",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":288,
+      "statement":"Wie viel Prozent der DNA einer Banane stimmt mit der des Menschen überein?",
+      "type":"3",
+      "solution":"50",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":289,
+      "statement":"Wie viele kcal hat durchschnittlich ein Döner?",
+      "type":"3",
+      "solution":"762",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":290,
+      "statement":"Wie viele kcal hat durchschnittlich eine Salamipizza?",
+      "type":"3",
+      "solution":"886",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":291,
+      "statement":"Wie viele kcal hat durchschnittlich ein Bier?",
+      "type":"3",
+      "solution":"184",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":292,
+      "statement":"Wie viele Minuten dauert Sex durchschnittlich (Vorspiel ausgenommen)?",
+      "type":"3",
+      "solution":"6",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":293,
+      "statement":"Wie viele Wörter hat die Bibel?",
+      "type":"3",
+      "solution":"738765",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":294,
+      "statement":"Hast du dir einen Mitspieler schon einmal nackt vorgestellt?",
+      "type":"1",
+      "solution":"",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Ja",
+         "Nein"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":295,
+      "statement":"Gerät man sich wegen einer Mortadella in die Haare, geht es auf jeden Fall ...?",
+      "type":"1",
+      "solution":"answers[0]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "um die Wurst",
+         "ans Eingemachte",
+         "in die Hose",
+         "auf die Knochen"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":296,
+      "statement":"Die Rainbows sangen in den Sechzigern: \"My ...\"?",
+      "type":"1",
+      "solution":"answers[2]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Mausi Mausi Dummi Dummi",
+         "Schatzi Schatzi Plem Plem",
+         "Baby Baby Balla Balla",
+         "Süße Süße Aua Aua"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":297,
+      "statement":"Müsste Lukas' Freund Jim aus der Augsburger Puppenkiste eine Haftstrafe verbüßen, säße er sozusagen...?",
+      "type":"1",
+      "solution":"answers[1]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "in der Mignon-Batterie",
+         "in der Knopf-Zelle",
+         "im Nickel-Kadmium-Akku",
+         "im 9-Volt-Block"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":298,
+      "statement":"Wie wurden die jungen, unverheirateten Töchter eines Grafen früher genannt?",
+      "type":"1",
+      "solution":"answers[0]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Komtessen",
+         "Habtirkeinenhunger",
+         "Wohbleibtihr",
+         "Aberersthendewaschen"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":299,
+      "statement":"Hat sich der Hahn beim Krähen auf dem Misthaufen sein Federkleid beschmutzt, hat er nun womöglich ...?",
+      "type":"1",
+      "solution":"answers[3]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Stoßdämpfer",
+         "Heckspoiler",
+         "Alufelgen",
+         "Kotflügel"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":300,
+      "statement":"Der Blick auf die Vorderfront eines Lkws führt am ehesten zu der Feststellung \"Die Stoßstange ...\"?",
+      "type":"1",
+      "solution":"answers[1]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "will Weile haben",
+         "ist aller Laster Anfang",
+         "hat Gold im Mund",
+         "kommt vor dem Fall"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":301,
+      "statement":"Traf die populäre Schauspielerin Meysel einen Mann, dann begegnete der ...?",
+      "type":"1",
+      "solution":"answers[3]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Harry Otter",
+         "Fluch der Aribik",
+         "Krieg der Erne",
+         "Herr der Inge"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":302,
+      "statement":"Was denkt der altersschwache Millionär am ehesten, wenn er seine Frau in flagranti mit einem Jüngeren erwischt?",
+      "type":"1",
+      "solution":"answers[3]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Die Bibel",
+         "Schöpfungsgeschichte",
+         "Markusevangelium",
+         "Neues Testament"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":303,
+      "statement":"Was ist kein ungewöhnlicher Zustand bei einem Menschen?",
+      "type":"1",
+      "solution":"answers[0]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Nase läuft Fuß riecht",
+         "Auge atmet Lunge sieht",
+         "Ohr zeigt Finger hört",
+         "Herz küsst Mund schlägt"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":304,
+      "statement":"Was macht ein Platzwart beruflich?",
+      "type":"1",
+      "solution":"answers[0]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "ein paar Lines ziehen",
+         "an der Tube schnüffeln",
+         "sich einen zwitschern",
+         "ne Tüte drehen"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":305,
+      "statement":"Wie hieß Batman bis 1989 in Schweden?",
+      "type":"1",
+      "solution":"answers[0]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Läderlappen",
+         "Stöffågel",
+         "Rik Man",
+         "Föräldralösa"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":306,
+      "statement":"Was ist der Siedepunkt von Flüssigem Stickstoff?",
+      "type":"1",
+      "solution":"answers[0]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "−196 °C",
+         "-10 °C",
+         "256 °C",
+         "2.700 °C"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":307,
+      "statement":"In welcher Stadt wurde Leonardo da Vinci geboren?",
+      "type":"1",
+      "solution":"answers[0]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Anchiano",
+         "Vinci",
+         "Rom",
+         "Florenz"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":308,
+      "statement":"Welche Rakete wurde 1969 bei der ersten (menschlichen) Mondlandung verwendet?",
+      "type":"1",
+      "solution":"answers[0]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Apollo 11",
+         "Saturn 3",
+         "Apollo 13",
+         "Apollo 69"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":309,
+      "statement":"Wann wurde der Namensgeber für Bluetooth geboren?",
+      "type":"1",
+      "solution":"answers[0]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         910,
+         1965,
+         2001,
+         1337
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":310,
+      "statement":"Wie heißt der Game of Thrones Porno?",
+      "type":"1",
+      "solution":"answers[0]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Game of Bones",
+         "Game of Porn",
+         "Winter is Cumming",
+         "Game of Throats"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":311,
+      "statement":"Was ist das meist konsumierte Bier der Welt?",
+      "type":"1",
+      "solution":"answers[0]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Snow",
+         "Budweiser",
+         "König Pilsener",
+         "Yanjing"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":312,
+      "statement":"Welcher Preis wird an den schlechtesten Film des Jahres vergeben?",
+      "type":"1",
+      "solution":"answers[0]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Die goldene Himbeere",
+         "Die goldene Erdbeere",
+         "Die goldene Emma",
+         "Der platin Analplug"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":313,
+      "statement":"Ein Viertel ist...",
+      "type":"1",
+      "solution":"answers[3]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "bank Raub",
+         "scheck Betrug",
+         "dieb Stahl",
+         "ein Bruch"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":314,
+      "statement":"Was kommt in Ostasien häufig auf den Tisch?",
+      "type":"1",
+      "solution":"answers[2]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Sovielleicht",
+         "Soschoneher",
+         "Soja",
+         "Sonicht"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":315,
+      "statement":"Was wird mittlerweile immer häufiger als Fleischersatz verwendet?",
+      "type":"1",
+      "solution":"answers[0]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Jackfrucht",
+         "Johngemüse",
+         "Jamesgetreide",
+         "Jimmykraut"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":316,
+      "statement":"Welches ist die Naturwissenschaft, die das Universum erforscht?",
+      "type":"1",
+      "solution":"answers[2]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Astrologie",
+         "Geologie",
+         "Astronomie",
+         "Jura"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":317,
+      "statement":"Welches  Mineral ist in den Knochen aller Wirbeltiere?",
+      "type":"1",
+      "solution":"answers[1]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "Stibiotantalit",
+         "Hydroxylapatit",
+         "Abswurmbachit",
+         "Abukumalit"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":318,
+      "statement":"... ist ein Uhrensohn?",
+      "type":"1",
+      "solution":"answers[3]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "homas Üller",
+         "Anuel Euer",
+         "Ichael Allack",
+         "Imo Erner"
+      ],
+      "metric":"",
+      "rating":0
+   },
+   {
+      "id":319,
+      "statement":"Mallorca, Mallorca, ...",
+      "type":"1",
+      "solution":"answers[0]",
+      "cat_drink":"",
+      "cat_activity":"",
+      "cat_game":"",
+      "cat_sex":"",
+      "answers":[
+         "mein Herz ruft nach dir!",
+         "ich möchte zu dir!",
+         "du bist bist der geilste Ort der Welt!",
+         "ist unser Leben und alles was zählt!"
+      ],
+      "metric":"",
+      "rating":0
+   }
+]

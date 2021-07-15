@@ -1,0 +1,17 @@
+.createJoinInput {
+    color: var(--text-color-head);
+    margin: 5px 0px !important;
+}
+
+.createJoinInput .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(255, 255, 255, 0.30) !important;
+}
+
+.createJoinInput .MuiFormLabel-root {
+    color: rgba(255, 255, 255, 0.80);
+}
+
+.createJoinInput .MuiInputBase-input{
+    color: white !important;
+}
+

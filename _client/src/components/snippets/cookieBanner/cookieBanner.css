@@ -1,0 +1,17 @@
+@import "../../../css/colorpanel.css";
+
+.react-cookie-banner span {
+    margin-left: 10vw;
+    font-weight: 50 !important;
+}
+
+.react-cookie-banner {
+    text-align: left !important;
+}
+
+.react-cookie-banner button {
+    height: 35px !important;
+    width: fit-content !important;
+    top: 38% !important;
+}
+

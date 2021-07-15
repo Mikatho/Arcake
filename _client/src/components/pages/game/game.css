@@ -1,0 +1,116 @@
+@import url("../../../css/colorpanel.css");
+@import "../../../css/index.css";
+
+html, body {;
+    height: 100%;
+}
+
+.gameContent{
+    display:flex;
+    flex-direction: column;
+    height: 90%;
+    width: 83%;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.inGameHead{
+    text-align: center;
+    font-size: 5vh;
+    line-height: 5vh;
+    color: var(--text-color-head);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.gameInputContainer{
+    width: 100%;
+}
+
+.ansArrowTop {
+    display: block;
+    margin: 0vh auto 1vh auto;
+    fill: var(--text-color-head);
+}
+.ansArrowBot {
+    display: block;
+    margin: 1vh auto 0vh auto;
+    fill: var(--text-color-head);
+}
+
+.UserFieldStyle {
+    height: 10vh;
+    width: 30vw;
+}
+
+.UserDivStyle {
+    place-items: center;
+    text-align: center;
+    width: 30vw;
+    height: 20vh;
+    line-height: 5vh;
+}
+
+/*
+|||||||||||||||||||||||||||   |||||||||||||||||||||||||||
+*/
+
+
+.inputContainer{
+    place-items: center;
+    height: auto;
+    text-align: center;
+    border-radius: 0;
+}
+
+.inputContainer div input {
+    background-color: rgba(0, 0, 0, 0);
+    color: var(--text-color-head);
+    border-right: none;
+}
+
+.buttonContainer{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: minmax(6vh, 1fr);
+    grid-gap: 5px;
+}
+
+.buttonContainer .buttonStyleBasic{
+    width: 100% !important;
+    min-height: 100% !important;
+    overflow: hidden !important;
+    padding: 7px;
+
+    /* break word if too long */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-all;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+}
+
+.numberInputBtn button{
+    border-radius: 0 5px 5px 0 !important;
+    border: 1px solid var(--text-color-head);
+    color: var(--text-color-head);
+}
+
+.inputContainer .buttonStyleBasicInput {
+    width: 6vw !important;
+    height: fit-content !important;
+    min-width: 0 !important;
+}
+
+.GameBtn {
+    display: block !important;
+    margin: 2vh auto 0 auto !important;
+    font-size: 2vh !important;
+    line-height: 2vh !important;
+    font-weight: bold !important;
+    width: 100% !important;
+}

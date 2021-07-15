@@ -1,0 +1,37 @@
+.userList{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.GameMasterUserList{
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    grid-gap: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+/*
+OLD
+|||||||||||||||||||||||||||User List|||||||||||||||||||||||||||
+*/
+.userDiv{
+    place-items: center;
+    height: fit-content;
+    overflow-x: auto;
+}
+
+.userIcon {
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255,255,255,0.3);
+    border-radius: 5px;
+    margin: 1vw auto;
+    padding: 7px;
+    width: fit-content;
+}

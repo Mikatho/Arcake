@@ -1,0 +1,50 @@
+@import url("../../../css/colorpanel.css");
+@font-face {
+    font-family: Azonix;
+    src: url("../../../css/fonts/Dolce Vita.ttf");
+}
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    font-family: Azonix, serif;
+    font-size: 32px;
+    margin-bottom: -7px;
+
+    word-break: keep-all;
+}
+
+html {
+    font-size: 14px;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.navbar-nav li {
+    margin-left: 20px;
+}
+
+.navbar-nav li a {transition: 0.2s ease}
+.navbar-nav li:hover a {text-shadow: 3px 3px 4px #c1c1c1;}
+
+nav div button {
+    width: 70px;
+    height: 7vh;
+}
+.navbar-container {
+    width: 96vw;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container{
+        max-width: 700px!important;
+    }
+}

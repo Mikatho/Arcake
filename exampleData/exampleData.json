@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "5f3b911780de5b321c748508"
+  },
+  "id": "0",
+  "answers": [],
+  "statement": "\"Alle müssen für diesen Vortrag klatschen\"",
+  "type": "0",
+  "solution": "",
+  "cat_drink": 0,
+  "cat_activity": 0,
+  "cat_game": 0,
+  "cat_sex": 0,
+  "rating": 0,
+  "metric": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3b911780de5b321c74850a"
+  },
+  "id": "1",
+  "answers": [
+    "Ja",
+    "Nein"
+  ],
+  "statement": "\"Haben euch die 2 Wochen AEM Zeit Spaß gemacht?\"",
+  "type": "1",
+  "solution": "",
+  "cat_drink": 1,
+  "cat_activity": 0,
+  "cat_game": 0,
+  "cat_sex": 0,
+  "rating": 0,
+  "metric": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3b911780de5b321c74850c"
+  },
+  "id": "2",
+  "answers": [
+    "AEM",
+    "Advanced Android",
+    "Mobile Systeme",
+    "New Media"
+  ],
+  "statement": "\"Welches Modul hat Felix zuerst an der FH gelehrt?\"",
+  "type": "1",
+  "solution": "AEM",
+  "cat_drink": 1,
+  "cat_activity": 0,
+  "cat_game": 0,
+  "cat_sex": 0,
+  "rating": 0,
+  "metric": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3b911780de5b321c74850f"
+  },
+  "id": "3",
+  "answers": [],
+  "statement": "\"Wähle welcher Spieler trinken soll!\"",
+  "type": "2",
+  "solution": "0",
+  "cat_drink": 2,
+  "cat_activity": 1,
+  "cat_game": 0,
+  "cat_sex": 0,
+  "rating": 0,
+  "metric": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3b911780de5b321c748510"
+  },
+  "id": "4",
+  "answers": [],
+  "statement": "\"Was kommt raus wenn man das Alter von Felix, Jacky und Tanja aufsummiert?\"",
+  "type": "3",
+  "solution": "105",
+  "cat_drink": 2,
+  "cat_activity": 1,
+  "cat_game": 0,
+  "cat_sex": 0,
+  "rating": 0,
+  "metric": "Jahre",
+  "__v": 0
+}]

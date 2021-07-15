@@ -1,0 +1,227 @@
+@import url("colorpanel.css");
+
+html, body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+html, body {
+  height: 100%;
+}
+
+.inheritContainer{
+  height: inherit;
+  width: inherit;
+}
+
+.bodyContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+
+  justify-content: space-between;
+}
+
+.navbarContainer {
+  background-color: white;
+  z-index: 69;
+}
+
+.contentContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+}
+
+.background {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  z-index: -69;
+
+  animation: background-move 30s ease infinite;
+  background-size: 200% 200%;
+
+  /* DO NOT DELETE OTHER BACKGROUNDS !!!*/
+  /*background-image: linear-gradient(-20deg, #fd223f 10%, #ff9a44 100%);*/
+  /*background-image: linear-gradient(180deg, #f43b47 15%, #453a94 100%);*/
+  /* background-image: linear-gradient(180deg, #ff5a44 0%, #f43b47 35%, #57117c 100%);*/
+  background-image: linear-gradient(180deg, #f43b47 10%, #57117c 100%);
+  /*background-image: linear-gradient(-25deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);*/
+  /* DO NOT DELETE OTHER BACKGROUNDS !!!*/
+}
+
+h4 {
+  margin-left: 10vw;
+  margin-right: 10vw;
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+  text-align: justify;
+  color: var(--text-color-head);
+  font-family: Arial, serif;
+}
+
+.title {
+  margin: 9vh auto;
+  display: flex;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 4vh;
+  line-height: 4vh;
+  color: var(--text-color-head);
+  font-family: Arial, serif;
+  letter-spacing: 3px;
+}
+
+/*
+|||||||||||||||||||||||||About Us|||||||||||||||||||||||||
+*/
+
+.allowScroll {
+  overflow: scroll;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+.allowScroll h4 p:last-child {
+  margin-bottom: 10vh !important;
+}
+
+/*
+|||||||||||||||||||||||||TextField and Button styles|||||||||||||||||||||||||
+*/
+
+.buttonStyleBasic {
+  width: fit-content !important;
+  height: fit-content !important;
+  font-size: 1.8vh;
+  line-height: 1.8vh;
+  text-transform: uppercase !important;
+  font-weight: bold !important;
+  color: var(--text-color-head) !important;
+  background-color: rgba(0, 0, 0, 0) !important;
+  transition: 0.2s ease-in-out !important;
+  border-radius: 5px !important;
+  border: none !important;
+  box-shadow: 0 0 5px var(--text-color-head) inset !important;
+}
+
+.nextBtn {
+  font-size: 30px !important;
+  padding: 10px 23px 10px 20px !important;
+  margin: 0 -10px 0 -10px !important;
+}
+
+.nextBtn:hover {
+  box-shadow: 0 0 5px var(--text-color-head) !important;
+}
+
+.HomepageBtns button {
+  width: 40vw !important;
+  height: 10vh !important;
+  margin: 3vh 0;
+  box-shadow: 0 0 15px var(--text-color-head) inset;
+  animation: changeBoxShadow 30s ease-in-out infinite;
+}
+
+.inviteBtn div button:hover {
+  background-color: var(--main-color);
+  text-decoration: none;
+}
+
+.userHolder div {
+  height: 20vh;
+  width: 36vw;
+  border-radius: 5px;
+  color: var(--text-color-head);
+  padding: 0;
+}
+
+.userHolder div p {
+  padding-left: 2vw;
+  padding-right: 2vw;
+  margin-top: 3vh;
+  display: inline-block;
+  text-align: center;
+}
+
+.inputHolder div {
+  height: 20vh;
+  border-radius: 5px;
+  color: var(--text-color-head);
+}
+
+.gameMaster {
+  color: var(--main-color-bright);
+  margin: 0;
+}
+
+/*
+|||||||||||||||||||||Background Animation|||||||||||||||||||||
+*/
+
+@keyframes background-move {
+  0% {
+    background-position: 0 0
+  }
+  50% {
+    background-position: 0 100%
+  }
+  100% {
+    background-position: 0 0
+  }
+}
+
+@keyframes changeBoxShadow {
+  0% {
+    box-shadow: 0 0 5px var(--text-color-head) inset;
+  }
+  50% {
+    box-shadow: 0 0 15px var(--text-color-head) inset;
+  }
+  100% {
+    box-shadow: 0 0 5px var(--text-color-head) inset;
+  }
+}
+
+/*
+|||||||||||||||||||||Change Scrollbar in desktop|||||||||||||||||||||
+*/
+
+@media (min-width: 768px) {
+  .allowScroll::-webkit-scrollbar {
+    width: 8px;
+    padding-right: 2px;
+  }
+
+  .allowScroll::-webkit-scrollbar-track {
+    background: none;
+  }
+
+  .allowScroll::-webkit-scrollbar-thumb {
+    background: #ffffff;
+    border: none;
+    border-radius: 4px;
+  }
+
+  .allowScroll::-webkit-scrollbar-thumb:hover {
+    background: #282c34;
+  }
+}

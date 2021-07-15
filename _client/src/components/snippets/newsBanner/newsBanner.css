@@ -1,0 +1,11 @@
+.NewsBanner{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    width: 100%;
+}
+h5{
+    color: white;
+    font-size: 1.4vh;
+}

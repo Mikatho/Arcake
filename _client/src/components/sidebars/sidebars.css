@@ -1,0 +1,125 @@
+@import "../../css/colorpanel.css";
+
+.centered{
+    text-align: center;
+}
+/*
+|||||||||||||||||||||||||Itemstyling in the list|||||||||||||||||||||||||
+*/
+
+h4{
+    margin: 5px 0 0 0;
+    padding: 0;
+}
+
+.sidebarContainer{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5% 0;
+}
+
+.inviteContainer{
+    width: 95%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.flexRow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flexColumn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.invSidebar{
+    color: var(--text-color-head);
+    width: 80vw !important;
+}
+/*
+|||||||||||||||||||||||||Button to close the sidebar|||||||||||||||||||||||||
+*/
+
+
+.closeSidebar {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+/*
+|||||||||||||||||||||||||Button to open the sidebar|||||||||||||||||||||||||
+*/
+
+/* FIRST ROTATE, AND THEN ADJUST POSITION, OTHERWISE CENTRE OF POSITION IS OFF*/
+.rotateLeft{
+    transform: rotate(-90deg);
+    position: absolute;
+    top: 50%;
+    left: 0;
+}
+
+.rotateRight{
+    transform: rotate(90deg);
+    position: absolute;
+    top: 50%;
+    right: 0;
+}
+
+.sidebarLeft{
+    position: absolute;
+    transform: translateX(-50%);
+    left: 0;
+    display: flex;
+    width: 80vh;
+    justify-content: space-around;
+}
+
+.sidebarRight{
+    position: absolute;
+    transform: translateX(50%);
+    right: 0;
+    display: flex;
+    width: 80vh;
+    justify-content: space-around;
+}
+
+
+.sidebarButton {
+    text-align: center;
+    padding: 5px 20px;
+    border-radius: 0 0 10px 10px;
+    background-color: #282c34;
+    border: none;
+    box-shadow: 0 0 5px #282c34;
+    transition: 0.2s ease;
+}
+
+.sidebarText {
+    font-weight: bold;
+    color: var(--text-color-head);
+    display: block;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+/*Change Backbtn position on breakpoint of the headline*/
+@media (min-width: 770px){
+    .invSidebar {
+        width: 40vw !important;
+    }
+}
